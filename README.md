@@ -38,7 +38,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 <div width="100%" style="display:flex;justify-content:space-between;margin-bottom:30px">
-<img src="https://media1.maktabkhooneh.org/courses/images/filter_85451.webp?expire=1732553811&token=68d0108ac763b5ba145d5c79e2f075dd" width="200" style=" border-radius:20px">
+<img src="./tailwind.webp" width="200" style=" border-radius:20px">
 </div>
 
 **تو��یحات:** این دوره هنوز به طور کامل منتظر نشده و به محض منتشر شدن لینک رو آپدیت می کنم. این دوره آموزش کامل فریمورک محبوب تیولند سی اس اس می باشد به همراه پروژه نهایی جذاب و کلی چیز های جذاب.

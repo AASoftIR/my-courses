@@ -35,7 +35,7 @@ Here you can find a list of courses I've taught, featuring various technologies!
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 <div width="100%" style="display:flex;justify-content:space-between;margin-bottom:30px">
-<img src="https://media1.maktabkhooneh.org/courses/images/filter_85451.webp?expire=1732553811&token=68d0108ac763b5ba145d5c79e2f075dd" width="200" style=" border-radius:20px">
+<img src="./tailwind.webp" width="200" style=" border-radius:20px">
 </div>
 
 **Description:** This course hasn't been fully published yet, and I'll update the link as soon as it's released. This is a complete tutorial for the popular Tailwind CSS framework, including an exciting final project and many interesting features.
